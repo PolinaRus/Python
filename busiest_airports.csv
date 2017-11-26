@@ -1,0 +1,351 @@
+year,airport,IATA,state,country,"totalpassengers"
+2016,Amsterdam Airport Schiphol,AMS,North Holland,The Netherlands,63625534
+2015,Amsterdam Airport Schiphol,AMS,North Holland,The Netherlands,58284864
+2014,Amsterdam Airport Schiphol,AMS,North Holland,The Netherlands,54978023
+2013,Amsterdam Schiphol Airport,AMS,North Holland,Netherlands,52569250
+2012,Amsterdam Schiphol Airport,AMS,North Holland,Netherlands,51035590
+2011,Amsterdam Schiphol Airport,AMS,North Holland,Netherlands,49755252
+2010,Amsterdam Airport Schiphol,AMS,North Holland,Netherlands,45211749
+2016,Hartsfield Jackson Atlanta International Airport,ATL,Georgia,United States,104171935
+2015,Hartsfield Jackson Atlanta International Airport,ATL,Georgia,United States,101491106
+2014,Hartsfield Jackson Atlanta International Airport,ATL,Georgia,United States,96178899
+2013,Hartsfield Jackson Atlanta International Airport,ATL,Georgia,United States,94430785
+2012,Hartsfield Jackson Atlanta International Airport,ATL,Georgia,United States,94956643
+2011,Hartsfield Jackson Atlanta International Airport,ATL,Georgia,United States,92389023
+2010,Hartsfield Jackson Atlanta International Airport,ATL,Georgia,United States,89331622
+2016,Barcelona El Prat Airport,BCN,Barcelona,Spain,44131031
+2015,Barcelona El Prat Airport,BCN,Barcelona,Spain,39674095
+2014,Barcelona El Prat Airport,BCN,Barcelona,Spain,37540326
+2013,Barcelona El Prat Airport,BCN,Barcelona,Spain,35210735
+2012,Barcelona Airport,BCN,Barcelona,Spain,35131771
+2011,Barcelona Airport,BCN,Barcelona,Spain,34387597
+2010,Barcelona Airport,BCN,Barcelona,Spain,29197135
+2016,Suvarnabhumi Airport,BKK,Samut Prakan,Thailand,55892428
+2015,Suvarnabhumi Airport,BKK,Samut Prakan,Thailand,52808013
+2014,Suvarnabhumi Airport,BKK,Samut Prakan,Thailand,46423352
+2013,Suvarnabhumi Airport,BKK,Samut Prakan,Thailand,51363451
+2012,Suvarnabhumi Airport,BKK,Samut Prakan,Thailand,53002328
+2011,Suvarnabhumi Airport,BKK,Samut Prakan,Thailand,47910904
+2010,Suvarnabhumi Airport,BKK,Samut Prakan,Thailand,42784967
+2016,Chhatrapati Shivaji International Airport,BOM,Maharashtra,India,44680555
+2015,Chhatrapati Shivaji International Airport,BOM,Maharashtra,India,40637377
+2014,Chhatrapati Shivaji International Airport,BOM,Maharashtra,India,34993738
+2013,Chhatrapati Shivaji International Airport,BOM,Maharashtra,India,31940026
+2012,Chhatrapati Shivaji International Airport,BOM,Maharashtra,India,30038696
+2011,Chhatrapati Shivaji International Airport,BOM,Maharashtra,India,30439122
+2010,Chhatrapati Shivaji International Airport,BOM,Maharashtra,India,28137797
+2011,Logan International Airport,BOS,Massachusetts,United States,28866313
+2010,Logan International Airport,BOS,Massachusetts,United States,27429152
+2016,Guangzhou Baiyun International Airport,CAN,Guangdong,China,59732147
+2015,Guangzhou Baiyun International Airport,CAN,Guangdong,China,55201915
+2014,Guangzhou Baiyun International Airport,CAN,Guangdong,China,54780346
+2013,Guangzhou Baiyun International Airport,CAN,Guangdong,China,52450262
+2012,Guangzhou Baiyun International Airport,CAN,Guangdong,China,48548430
+2011,Guangzhou Baiyun International Airport,CAN,Guangdong,China,45040340
+2010,Guangzhou Baiyun International Airport,CAN,Guangdong,China,40975673
+2016,Charles de Gaulle Airport,CDG,‘le-de-France,France,65933145
+2015,Paris-Charles de Gaulle Airport,CDG,‘le-de-France,France,65766986
+2014,Paris-Charles de Gaulle Airport,CDG,‘le-de-France,France,63813756
+2013,Paris-Charles de Gaulle Airport,CDG,‘le-de-France,France,62052917
+2012,Paris-Charles de Gaulle Airport,CDG,‘le-de-France,France,61611934
+2011,Paris-Charles de Gaulle Airport,CDG,‘le-de-France,France,60970551
+2010,Paris-Charles de Gaulle Airport,CDG,‘le-de-France,France,58167062
+2016,Soekarno_Hatta International Airport,CGK,Banten,Indonesia,54969536
+2015,Soekarno-Hatta International Airport,CGK,Banten,Indonesia,54053905
+2014,Soekarno-Hatta International Airport,CGK,Banten,Indonesia,57221169
+2013,Soekarno-Hatta International Airport,CGK,Banten,Indonesia,59701543
+2012,Soekarno-Hatta International Airport,CGK,Banten,Indonesia,57730732
+2011,Soekarno-Hatta International Airport,CGK,Banten,Indonesia,51533187
+2010,Soekarno-Hatta International Airport,CGK,Banten,Indonesia,44355998
+2016,Charlotte Douglas International Airport,CLT,North Carolina,United States,44422022
+2015,Charlotte Douglas International Airport,CLT,North Carolina,United States,44876627
+2014,Charlotte Douglas International Airport,CLT,North Carolina,United States,44279504
+2013,Charlotte Douglas International Airport,CLT,North Carolina,United States,43456310
+2012,Charlotte Douglas International Airport,CLT,North Carolina,United States,41226035
+2011,Charlotte Douglas International Airport,CLT,North Carolina,United States,39043708
+2010,Charlotte Douglas International Airport,CLT,North Carolina,United States,38254207
+2016,Chengdu Shuangliu International Airport,CTU,Sichuan,China,46039137
+2015,Chengdu Shuangliu International Airport,CTU,Sichuan,China,42244842
+2014,Chengdu Shuangliu International Airport,CTU,Sichuan,China,37712357
+2013,Chengdu Shuangliu International Airport,CTU,Sichuan,China,33445817
+2012,Chengdu Shuangliu International Airport,CTU,Sichuan,China,31599353
+2011,Chengdu Shuangliu International Airport,CTU,Sichuan,China,29073990
+2016,Indira Gandhi International Airport,DEL,Delhi,India,55631385
+2015,Indira Gandhi International Airport,DEL,Delhi,India,45981773
+2014,Indira Gandhi International Airport,DEL,Delhi,India,39752819
+2013,Indira Gandhi International Airport,DEL,Delhi,India,36712455
+2012,Indira Gandhi International Airport,DEL,Delhi,India,34211608
+2011,Indira Gandhi International Airport,DEL,Delhi,India,34729467
+2010,Indira Gandhi International Airport,DEL,Delhi,India,28531607
+2016,Denver International Airport,DEN,Colorado,United States,58266515
+2015,Denver International Airport,DEN,Colorado,United States,54014502
+2014,Denver International Airport,DEN,Colorado,United States,53472514
+2013,Denver International Airport,DEN,Colorado,United States,52556359
+2012,Denver International Airport,DEN,Colorado,United States,53156278
+2011,Denver International Airport,DEN,Colorado,United States,52849132
+2010,Denver International Airport,DEN,Colorado,United States,52209377
+2016,Dallas/Fort Worth International Airport,DFW,Texas,United States,65670697
+2015,Dallas/Fort Worth International Airport,DFW,Texas,United States,65512163
+2014,Dallas/Fort Worth International Airport,DFW,Texas,United States,63554402
+2013,Dallas/Fort Worth International Airport,DFW,Texas,United States,60436266
+2012,Dallas-Fort Worth International Airport,DFW,Texas,United States,58591842
+2011,Dallas-Fort Worth International Airport,DFW,Texas,United States,57832495
+2010,Dallas-Fort Worth International Airport,DFW,Texas,United States,56906610
+2014,Domodedovo International Airport,DME,Moscow,Russia,33108047
+2013,Domodedovo International Airport,DME,Moscow,Russia,30765078
+2016,Hamad International Airport,DOH,Doha,Qatar,37283987
+2013,Detroit Metropolitan Wayne County Airport,DTW,Michigan,United States,32389544
+2012,Detroit Metropolitan Wayne County Airport,DTW,Michigan,United States,32205358
+2011,Detroit Metropolitan Wayne County Airport,DTW,Michigan,United States,32419181
+2010,Detroit Metropolitan Wayne County Airport,DTW,Michigan,United States,32377064
+2016,Dubai International Airport,DXB,Dubai,United Arab Emirates,83654250
+2015,Dubai International Airport,DXB,Dubai,United Arab Emirates,78014841
+2014,Dubai International Airport,DXB,Dubai,United Arab Emirates,70475636
+2013,Dubai International Airport,DXB,Dubai,United Arab Emirates,66431533
+2012,Dubai International Airport,DXB,Dubai,United Arab Emirates,57684550
+2011,Dubai International Airport,DXB,Dubai,United Arab Emirates,50977960
+2010,Dubai International Airport,DXB,Dubai,United Arab Emirates,47180628
+2016,Newark Liberty International Airport,EWR,New Jersey,United States,40289969
+2015,Newark Liberty International Airport,EWR,New Jersey,United States,37494704
+2014,Newark Liberty International Airport,EWR,New Jersey,United States,35610759
+2013,Newark Liberty International Airport,EWR,New Jersey,United States,35016236
+2012,Newark Liberty International Airport,EWR,New Jersey,United States,33993962
+2011,Newark Liberty International Airport,EWR,New Jersey,United States,33577154
+2010,Newark Liberty International Airport,EWR,New Jersey,United States,33133852
+2016,Leonardo da Vinci_Fiumicino Airport,FCO,Rome,Italy,41738662
+2015,Leonardo da Vinci_Fiumicino Airport,FCO,Rome,Italy,40422156
+2014,Leonardo da Vinci_Fiumicino Airport,FCO,Rome,Italy,38506467
+2013,Leonardo da Vinci_Fiumicino Airport,FCO,Rome,Italy,36165762
+2012,Leonardo da Vinci-Fiumicino Airport,FCO,Rome,Italy,36980161
+2011,Leonardo da Vinci-Fiumicino Airport,FCO,Rome,Italy,37651222
+2010,Leonardo da Vinci Airport,FCO,Rome,Italy,36227778
+2016,Frankfurt Airport,FRA,Frankfurt,Germany,60786937
+2015,Frankfurt Airport,FRA,Frankfurt,Germany,61032022
+2014,Frankfurt Airport,FRA,Frankfurt,Germany,59566132
+2013,Frankfurt Airport,FRA,Frankfurt,Germany,58036948
+2012,Frankfurt Airport,FRA,Frankfurt,Germany,57520001
+2011,Frankfurt Airport,FRA,Frankfurt,Germany,56436255
+2010,Frankfurt Airport,FRA,Frankfurt,Germany,53009221
+2015,SÜo Paulo-Guarulhos International Airport,GRU,SÜo Paulo,Brazil,39213865
+2014,SÜo Paulo-Guarulhos International Airport,GRU,SÜo Paulo,Brazil,39765714
+2013,SÜo Paulo-Guarulhos International Airport,GRU,SÜo Paulo,Brazil,36460923
+2012,SÜo Paulo-Guarulhos International Airport,GRU,SÜo Paulo,Brazil,32477646
+2011,SÜo Paulo-Guarulhos International Airport,GRU,SÜo Paulo,Brazil,30371131
+2010,SÜo Paulo-Guarulhos International Airport,GRU,SÜo Paulo,Brazil,27432346
+2016,Hong Kong International Airport,HKG,Hong Kong,China,70314462
+2015,Hong Kong International Airport,HKG,Hong Kong,China,68283407
+2014,Hong Kong International Airport,HKG,Hong Kong,China,63121786
+2013,Hong Kong International Airport,HKG,Hong Kong,China,59609414
+2012,Hong Kong International Airport,HKG,Hong Kong,China,56064248
+2011,Hong Kong International Airport,HKG,Hong Kong,China,53328613
+2010,Hong Kong International Airport,HKG,Hong Kong,China,50348960
+2016,Tokyo International Airport,HND,Tokyo,Japan,79699762
+2015,Tokyo Haneda Airport,HND,Tokyo,Japan,75316718
+2014,Tokyo Haneda Airport,HND,Tokyo,Japan,72826565
+2013,Tokyo Haneda Airport,HND,Tokyo,Japan,68906636
+2012,Tokyo International Airport,HND,Tokyo,Japan,67788722
+2011,Tokyo International Airport,HND,Tokyo,Japan,62584826
+2010,Tokyo International Airport,HND,Tokyo,Japan,64211074
+2016,George Bush Intercontinental Airport,IAH,Texas,United States,41622594
+2015,George Bush Intercontinental Airport,IAH,Texas,United States,43023224
+2014,George Bush Intercontinental Airport,IAH,Texas,United States,41239700
+2013,George Bush Intercontinental Airport,IAH,Texas,United States,39865325
+2012,George Bush Intercontinental Airport,IAH,Texas,United States,40022736
+2011,George Bush Intercontinental Airport,IAH,Texas,United States,40128953
+2010,George Bush Intercontinental Airport,IAH,Texas,United States,40479569
+2016,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,57849814
+2015,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,49412750
+2014,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,45662322
+2013,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,41679758
+2012,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,39154375
+2011,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,35191825
+2010,Seoul Incheon International Airport,ICN,Incheon,Republic of Korea,33605579
+2016,Istanbul AtatÙrk Airport,IST,Istanbul,Turkey,60248741
+2015,Istanbul AtatÙrk Airport,IST,Istanbul,Turkey,61836781
+2014,Istanbul AtatÙrk Airport,IST,Istanbul,Turkey,56767108
+2013,AtatÙrk International Airport,IST,Istanbul,Turkey,51172626
+2012,AtatÙrk International Airport,IST,Istanbul,Turkey,44992420
+2011,AtatÙrk International Airport,IST,Istanbul,Turkey,37406025
+2010,AtatÙrk International Airport,IST,Istanbul,Turkey,32165817
+2016,John F. Kennedy International Airport,JFK,New York,United States,58813103
+2015,John F. Kennedy International Airport,JFK,New York,United States,56827154
+2014,John F. Kennedy International Airport,JFK,New York,United States,53254533
+2013,John F. Kennedy International Airport,JFK,New York,United States,50413204
+2012,John F. Kennedy International Airport,JFK,New York,United States,49293587
+2011,John F. Kennedy International Airport,JFK,New York,United States,47644060
+2010,John F. Kennedy International Airport,JFK,New York,United States,46514154
+2016,Kunming Changshui International Airport,KMG,Yunnan,China,41980515
+2015,Kunming Changshui International Airport,KMG,Yunnan,China,37523345
+2016,Kuala Lumpur International Airport,KUL,Selangor,Malaysia,52640043
+2015,Kuala Lumpur International Airport,KUL,Selangor,Malaysia,48938424
+2014,Kuala Lumpur International Airport,KUL,Selangor,Malaysia,48930409
+2013,Kuala Lumpur International Airport,KUL,Selangor,Malaysia,47498157
+2012,Kuala Lumpur International Airport,KUL,Selangor,Malaysia,39887866
+2011,Kuala Lumpur International Airport,KUL,Selangor,Malaysia,37704510
+2010,Kuala Lumpur International Airport,KUL,Selangor,Malaysia,34087636
+2016,McCarran International Airport,LAS,Nevada,United States,47496614
+2015,McCarran International Airport,LAS,Nevada,United States,45356580
+2014,McCarran International Airport,LAS,Nevada,United States,42869517
+2013,McCarran International Airport,LAS,Nevada,United States,41856787
+2012,McCarran International Airport,LAS,Nevada,United States,41666527
+2011,McCarran International Airport,LAS,Nevada,United States,40560285
+2010,McCarran International Airport,LAS,Nevada,United States,39757359
+2016,Los Angeles International Airport,LAX,California,United States,80921527
+2015,Los Angeles International Airport,LAX,California,United States,74937004
+2014,Los Angeles International Airport,LAX,California,United States,70663265
+2013,Los Angeles International Airport,LAX,California,United States,66702252
+2012,Los Angeles International Airport,LAX,California,United States,63688121
+2011,Los Angeles International Airport,LAX,California,United States,61862052
+2010,Los Angeles International Airport,LAX,California,United States,59070127
+2016,Gatwick Airport,LGW,West Sussex,United Kingdom,43136795
+2015,London Gatwick Airport,LGW,West Sussex,United Kingdom,40271343
+2014,London Gatwick Airport,LGW,West Sussex,United Kingdom,38105747
+2013,London Gatwick Airport,LGW,West Sussex,United Kingdom,35448590
+2012,London Gatwick Airport,LGW,West Sussex,United Kingdom,34222405
+2011,London Gatwick Airport,LGW,West Sussex,United Kingdom,33668048
+2010,London Gatwick Airport,LGW,West Sussex,United Kingdom,31378644
+2016,Heathrow Airport,LHR,London,United Kingdom,75715474
+2015,London Heathrow Airport,LHR,London,United Kingdom,74989795
+2014,London Heathrow Airport,LHR,London,United Kingdom,73408489
+2013,Heathrow Airport,LHR,London,United Kingdom,72368030
+2012,London Heathrow Airport,LHR,London,United Kingdom,70037417
+2011,London Heathrow Airport,LHR,London,United Kingdom,69433565
+2010,London Heathrow Airport,LHR,London,United Kingdom,65884143
+2016,Madrid Barajas Airport,MAD,Madrid,Spain,50397928
+2015,Madrid Barajas Airport,MAD,Madrid,Spain,46779554
+2014,Madrid Barajas Airport,MAD,Madrid,Spain,41822863
+2013,Madrid Barajas Airport,MAD,Madrid,Spain,39729027
+2012,Madrid Barajas Airport,MAD,Madrid,Spain,45175501
+2011,Madrid Barajas Airport,MAD,Madrid,Spain,49653055
+2010,Madrid-Barajas Airport,MAD,Madrid,Spain,49844596
+2016,Orlando International Airport,MCO,Florida,United States,41923399
+2015,Orlando International Airport,MCO,Florida,United States,38727749
+2014,Orlando International Airport,MCO,Florida,United States,35714091
+2013,Orlando International Airport,MCO,Florida,United States,34973645
+2012,Orlando International Airport,MCO,Florida,United States,35214430
+2011,Orlando International Airport,MCO,Florida,United States,35356991
+2010,Orlando International Airport,MCO,Florida,United States,34877899
+2012,Tullamarine International Airport,MEL,Victoria,Australia,29431084
+2011,Melbourne Airport,MEL,Victoria,Australia,28060111
+2010,Melbourne Airport,MEL,Victoria,Australia,27731252
+2016,Benito Juàrez International Airport,MEX,Mexico City,Mexico,41410254
+2015,Benito Juàrez International Airport,MEX,Mexico City,Mexico,38433288
+2014,Benito Juàrez International Airport,MEX,Mexico City,Mexico,34255739
+2013,Benito Juàrez International Airport,MEX,Mexico City,Mexico,31534638
+2016,Miami International Airport,MIA,Florida,United States,44584603
+2015,Miami International Airport,MIA,Florida,United States,44350247
+2014,Miami International Airport,MIA,Florida,United States,40941879
+2013,Miami International Airport,MIA,Florida,United States,40563071
+2012,Miami International Airport,MIA,Florida,United States,39467444
+2011,Miami International Airport,MIA,Florida,United States,38314389
+2010,Miami International Airport,MIA,Florida,United States,35698025
+2016,Ninoy Aquino International Airport,MNL,Metro Manila,Philippines,39534991
+2015,Ninoy Aquino International Airport,MNL,Metro Manila,Philippines,36583459
+2014,Ninoy Aquino International Airport,MNL,Metro Manila,Philippines,34015169
+2013,Ninoy Aquino International Airport,MNL,Metro Manila,Philippines,32856597
+2012,Ninoy Aquino International Airport,MNL,Metro Manila,Philippines,31878935
+2011,Ninoy Aquino International Airport,MNL,Metro Manila,Philippines,29551394
+2010,Ninoy Aquino International Airport,MNL,Metro Manila,Philippines,27148724
+2016,Minneapolis/St Paul International Airport,MSP,Minnesota,United States,37413728
+2015,Minneapolis/St Paul International Airport,MSP,Minnesota,United States,36556281
+2014,Minneapolis/St Paul International Airport,MSP,Minnesota,United States,35147083
+2013,Minneapolis/St Paul International Airport,MSP,Minnesota,United States,33870693
+2012,Minneapolis-Saint Paul International Airport,MSP,Minnesota,United States,33125768
+2011,Minneapolis-Saint Paul International Airport,MSP,Minnesota,United States,33074443
+2010,Minneapolis-Saint Paul International Airport,MSP,Minnesota,United States,32749649
+2016,Munich Airport,MUC,Bavaria,Germany,42261309
+2015,Munich Airport,MUC,Bavaria,Germany,40981522
+2014,Munich Airport,MUC,Bavaria,Germany,39700515
+2013,Munich Airport,MUC,Bavaria,Germany,38672644
+2012,Munich Airport,MUC,Bavaria,Germany,38360604
+2011,Munich Airport,MUC,Bavaria,Germany,37763701
+2010,Munich Airport,MUC,Bavaria,Germany,34721605
+2016,Narita International Airport,NRT,Chiba,Japan,39000563
+2015,Narita International Airport,NRT,Chiba,Japan,37268307
+2014,Narita International Airport,NRT,Chiba,Japan,35535206
+2013,Narita International Airport,NRT,Chiba,Japan,35341341
+2012,Narita International Airport,NRT,Chiba,Japan,32874530
+2010,Narita International Airport,NRT,Chiba,Japan,33815906
+2016,O'Hare International Airport,ORD,Illinois,United States,78327479
+2015,O'Hare International Airport,ORD,Illinois,United States,76942493
+2014,O'Hare International Airport,ORD,Illinois,United States,69999010
+2013,O'Hare International Airport,ORD,Illinois,United States,66883271
+2012,O'Hare International Airport,ORD,Illinois,United States,66834931
+2011,O'Hare International Airport,ORD,Illinois,United States,66701241
+2010,O'Hare International Airport,ORD,Illinois,United States,66774738
+2016,Beijing Capital International Airport,PEK,Beijing,China,94393454
+2015,Beijing Capital International Airport,PEK,Beijing,China,89938628
+2014,Beijing Capital International Airport,PEK,Beijing,China,86128270
+2013,Beijing Capital International Airport,PEK,Beijing,China,83712355
+2012,Beijing Capital International Airport,PEK,Beijing,China,81929359
+2011,Beijing Capital International Airport,PEK,Beijing,China,78675058
+2010,Beijing Capital International Airport,PEK,Beijing,China,73948113
+2012,Philadelphia International Airport,PHL,Pennsylvania,United States,30228596
+2011,Philadelphia International Airport,PHL,Pennsylvania,United States,30839130
+2010,Philadelphia International Airport,PHL,Pennsylvania,United States,30775271
+2016,Phoenix Sky Harbor International Airport,PHX,Arizona,United States,43302381
+2015,Phoenix Sky Harbor International Airport,PHX,Arizona,United States,44003840
+2014,Phoenix Sky Harbor International Airport,PHX,Arizona,United States,42125212
+2013,Phoenix Sky Harbor International Airport,PHX,Arizona,United States,40318451
+2012,Phoenix Sky Harbor International Airport,PHX,Arizona,United States,40452009
+2011,Phoenix Sky Harbor International Airport,PHX,Arizona,United States,40591948
+2010,Phoenix Sky Harbor International Airport,PHX,Arizona,United States,38554215
+2016,Shanghai Pudong International Airport,PVG,Shanghai,China,66002414
+2015,Shanghai Pudong International Airport,PVG,Shanghai,China,60053387
+2014,Shanghai Pudong International Airport,PVG,Shanghai,China,51687894
+2013,Shanghai Pudong International Airport,PVG,Shanghai,China,47189849
+2012,Shanghai Pudong International Airport,PVG,Shanghai,China,44880164
+2011,Shanghai Pudong International Airport,PVG,Shanghai,China,41447730
+2010,Shanghai Pudong International Airport,PVG,Shanghai,China,40578621
+2016,Seattle-Tacoma International Airport,SEA,Washington,United States,45736700
+2015,Seattle-Tacoma International Airport,SEA,Washington,United States,42340461
+2014,Seattle-Tacoma International Airport,SEA,Washington,United States,37497941
+2013,Seattle-Tacoma International Airport,SEA,Washington,United States,34824281
+2012,Seattle-Tacoma International Airport,SEA,Washington,United States,33219723
+2011,Seattle-Tacoma International Airport,SEA,Washington,United States,32820060
+2010,Seattle-Tacoma International Airport,SEA,Washington,United States,31553166
+2016,San Francisco International Airport,SFO,California,United States,53099282
+2015,San Francisco International Airport,SFO,California,United States,50057887
+2014,San Francisco International Airport,SFO,California,United States,47114631
+2013,San Francisco International Airport,SFO,California,United States,44944201
+2012,San Francisco International Airport,SFO,California,United States,44431894
+2011,San Francisco International Airport,SFO,California,United States,40927786
+2010,San Francisco International Airport,SFO,California,United States,39253999
+2016,Shanghai Hongqiao International Airport,SHA,Shanghai,China,40460135
+2015,Shanghai Hongqiao International Airport,SHA,Shanghai,China,39090699
+2014,Shanghai Hongqiao International Airport,SHA,Shanghai,China,37971135
+2013,Shanghai Hongqiao International Airport,SHA,Shanghai,China,35599643
+2012,Shanghai Hongqiao International Airport,SHA,Shanghai,China,33828726
+2011,Shanghai Hongqiao International Airport,SHA,Shanghai,China,33112442
+2010,Shanghai Hongqiao International Airport,SHA,Shanghai,China,31298812
+2016,Singapore Changi Airport,SIN,Singapore,Singapore,58698000
+2015,Singapore Changi Airport,SIN,Singapore,Singapore,55449000
+2014,Singapore Changi Airport,SIN,Singapore,Singapore,54093000
+2013,Singapore Changi Airport,SIN,Singapore,Singapore,53726087
+2012,Singapore Changi Airport,SIN,Singapore,Singapore,51181804
+2011,Singapore Changi Airport,SIN,Singapore,Singapore,46543845
+2010,Singapore Changi Airport,SIN,Singapore,Singapore,42038777
+2016,Sydney Kingsford-Smith Airport,SYD,New South Wales,Australia,41985810
+2015,Sydney Kingsford-Smith Airport,SYD,New South Wales,Australia,39914103
+2014,Sydney Kingsford-Smith Airport,SYD,New South Wales,Australia,38863380
+2013,Sydney Kingsford-Smith Airport,SYD,New South Wales,Australia,38254039
+2012,Sydney Airport,SYD,New South Wales,Australia,37342798
+2011,Sydney Airport,SYD,New South Wales,Australia,36022614
+2010,Sydney Airport,SYD,New South Wales,Australia,35991917
+2016,Shenzhen Bao'an International Airport,SZX,Guangdong,China,41975090
+2015,Shenzhen Bao'an International Airport,SZX,Guangdong,China,39721619
+2014,Shenzhen Bao'an International Airport,SZX,Guangdong,China,36272701
+2013,Shenzhen Bao'an International Airport,SZX,Guangdong,China,32268457
+2012,Shenzhen Bao'an International Airport,SZX,Guangdong,China,29569725
+2011,Shenzhen Bao'an International Airport,SZX,Guangdong,China,28245745
+2010,Shenzhen Bao'an International Airport,SZX,Guangdong,China,26713610
+2016,Taiwan Taoyuan International Airport,TPE,Taoyuan,Taiwan,42296322
+2015,Taiwan Taoyuan International Airport,TPE,Taoyuan,Taiwan,38473333
+2014,Taiwan Taoyuan International Airport,TPE,Taoyuan,Taiwan,35804465
+2016,Toronto Pearson International Airport,YYZ,Ontario,Canada,44335198
+2015,Toronto Pearson International Airport,YYZ,Ontario,Canada,41036847
+2014,Toronto Pearson International Airport,YYZ,Ontario,Canada,38569088
+2013,Toronto Pearson International Airport,YYZ,Ontario,Canada,36037962
+2012,Toronto Pearson International Airport,YYZ,Ontario,Canada,34912456
+2011,Toronto Pearson International Airport,YYZ,Ontario,Canada,33434199
+2010,Toronto Pearson International Airport,YYZ,Ontario,Canada,31937895
